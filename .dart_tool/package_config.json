@@ -33,7 +33,7 @@
     },
     {
       "name": "native_device_orientation",
-      "rootUri": "file:///opt/homebrew/Caskroom/flutter/3.0.3/flutter/.pub-cache/hosted/pub.dartlang.org/native_device_orientation-1.0.0",
+      "rootUri": "file:///opt/homebrew/Caskroom/flutter/3.0.3/flutter/.pub-cache/hosted/pub.dartlang.org/native_device_orientation-1.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -56,7 +56,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-06-28T01:10:17.891432Z",
+  "generated": "2022-09-06T17:11:02.612372Z",
   "generator": "pub",
-  "generatorVersion": "2.17.5"
+  "generatorVersion": "2.17.6"
 }
